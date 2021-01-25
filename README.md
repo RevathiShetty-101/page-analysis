@@ -1,6 +1,6 @@
 # page-analysis
 
-git clone ' ' 
+git clone 'https://github.com/RevathiShetty-101/page-analysis.git' 
 
 #run following comments
 
